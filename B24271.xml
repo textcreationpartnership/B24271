@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Honest invitations, by the unborn doctor, seventh son of the seventh son;</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24271</idno><idno type="EEBO-CITATION">99888648</idno>
+  <idno type="VID">195863</idno>
+  <idno type="EEBO-PROQUEST">2240902045</idno>
+  
+            <idno type="STC">Wing H2586B</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[59]</idno>
+            <idno type="STC">ESTC R231587</idno>
+            <idno type="STC">ESTC R231398</idno>
+            <idno type="STC">ESTC R231587</idno>
+            <idno type="PROQUEST">ocm99888648</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888648e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24271)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195863)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[59])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Honest invitations, by the unborn doctor, seventh son of the seventh son;</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With allowance."</note>
+                  <note>Imprint information from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  England --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:195863:1"/>
+            <head>Honest Invitations,</head>
+            <byline>By the Ʋnborn <hi>DOCTOR,</hi> Seventh SON of the Seventh SON;</byline>
+            <p>WHO by God's Blessings cures all curable Diseases in the Bodies of Men, Women and Children, having had 27 Years Travels and Practice in Physick, and all Manual Operations, thorough several Parts and Rindoms, so that he doth know the Nature and Quality of all or most Regions and Climates, which of them is more hotter, drier, moister, and colder than other; and so knowing as to find the true Constitution of any Patient's Body, and what Humour when sick do, or may most abound, whether Choller, Flegm, Blood, or Melancholly; and in what degree of Heat, Driness, Moistness, or Coldness, they may be affected; so by the knowledge of this, he can give a Medicine which may reduce the Patients into their former state of Health, and not like some other Doctors, which give one and the same Medicine to all Patients that shall be afflicted with one and the same Distemper, not at all considering the true Constitution of the Patient's Body; that is the reason so many Doctors fail in curing their Patients, and the Distempers do bring them to the Grave; when a Doctor which is truly knowing in what I have before said, may through God's blessing restore them to their perfect Health again; so no more of this, but a word to the Wife, is enough, as <hi>Soloman</hi> said; — but,
+<q xml:lang="lat">
+                  <l>Principiis obsta sero Medicine paratur,—</l>
+                  <l>Cum mala per longas as invaluere moras.—</l>
+               </q>
+               <q>
+                  <l>Resist Beginnings, late is Physick us'd,</l>
+                  <l>When the Disease delay'd is deep ininfus'd.</l>
+               </q>
+            </p>
+            <lg>
+               <l>NOW follow a Catalogue of what he'll do,</l>
+               <l>Be your Distemper old or new.</l>
+               <l>First, the <hi>French-Pox</hi> you may be sure,</l>
+               <l>He with speed will soundly cure.</l>
+               <l>And as for the <hi>Gout,</hi> if any can,</l>
+               <l>He'll ease or cure with any man;</l>
+               <l>But I confess unto you all,</l>
+               <l>It is che Master of Physician-Hall.</l>
+               <l>And as for the <hi>Stone,</hi>
+               </l>
+               <l>He never yet fai'd in none;</l>
+               <l>If in the Bladder it will not dissolve, he safely cuts it out,</l>
+               <l>And cure the Patient, you need not doubt.</l>
+               <l>And as for the <hi>Dropsy, Scurvy,</hi> which often do combind,</l>
+               <l>A Cure for them both from him, you not doubt to find;</l>
+               <l>For the <hi>Scurvy</hi> by sweetning of the Blood will decease,</l>
+               <l>And the <hi>Dropsy</hi> by Sweat and Ʋrine will decrease;</l>
+               <l>But if of this it will not admit,</l>
+               <l>He'll Tap for the same, Do not forget.</l>
+               <l>Now as for the <hi>Palsy, Convulsions, Agues, Fevers,</hi> and all aching Pains,</l>
+               <l>He'll cure in Limbs, Nerves, Joints and Veins.</l>
+               <l>Now <hi>Chollick</hi> Pains, and <hi>Griping</hi> in the Guts,</l>
+               <l>Comes from <hi>Wind</hi> and <hi>Choler,</hi> flowing o're-much;</l>
+               <l>Yet a Cure from him, you need not doubt to find,</l>
+               <l>For <hi>Chollick, Gripes,</hi> and the <hi>Wind.</hi>
+               </l>
+               <l>Now if <hi>Vertigo, Giddiness, Melancholly, Megrims, Phreusie Fits,</hi>
+               </l>
+               <l>Or <hi>Apoplex,</hi>
+               </l>
+               <l>Do your Head oppose,</l>
+               <l>With reddy Face, or scabby Nose,</l>
+               <l>A cure from him may be had for them all,</l>
+               <l>You need not doubt or sear at all.</l>
+               <l>And as for <hi>Wounds, Tumors, swelling Ulcers, Cancers,</hi> and old <hi>Running sores</hi>
+               </l>
+               <l>In the Year he cures many Scores.</l>
+               <l>Now to all Women, he is a Friend,</l>
+               <l>If they be sick or ill, he doth them mend;</l>
+               <l>For if <hi>Obstructions</hi> do them annoy,</l>
+               <l>He'll open them and clear the Way</l>
+               <l>So <hi>Barrenness</hi> he do's prevent</l>
+               <l>To many Patients great Content.</l>
+               <l>And as for Children (if curable) of what e're they Ail,</l>
+               <l>To cure them, he'll never fail.</l>
+               <l>And as for those that Deaf may be,</l>
+               <l>Or lost their sight, and cannot see,</l>
+               <l>He by Art doth them restore,</l>
+               <l>Be they rich, or be they poor;</l>
+               <l>For many one of each degree, that Deaf and Blind have been,</l>
+               <l>He hath brought to hear and see agen;</l>
+               <l>So 'tis for that very thing,</l>
+               <l>His Fame in <hi>England</hi> now do ring.</l>
+               <l>Now whose Bones are broke, or out of Joint,</l>
+               <l>He reduceth them with a slight.</l>
+               <l>So all you that of a Cure do stand in need,</l>
+               <l>Make haste, and go to him with speed;</l>
+               <l>For be you poor, sick, lame, or blind,</l>
+               <l>He'll on his Word to you be kind.</l>
+               <l>So to conclude, and make and End,</l>
+               <l>I to you this Paper send,</l>
+               <l>That you may see God's Gift is great to me,</l>
+               <l>By which I cause the Lame to go, and the Blind to see.</l>
+            </lg>
+            <p>Now for the Conveniency of my Patients of the West Parts of <hi>London.</hi> I am to be spoken with every <hi>Monday</hi> and <hi>Thurs<g ref="char:EOLhyphen"/>day,</hi> from Nine in the Morning, till Eight at Night, new Door to the <hi>Pump</hi> in <hi>Demark</hi> Court, at the Lower-End of <hi>Exeter-street,</hi> near the <hi>Strand</hi> or <hi>Exchange.</hi> And <hi>Tuesday, Wednesday, Friday</hi> and <hi>Saturday,</hi> at my own House in <hi>Golden-Lane,</hi> at the <hi>Golden-Key,</hi> near <hi>Old-street,</hi> where any Person or Persons may be accommodated with a Lodging or Lodgings convenient, if their Distempers shall require the constant Attendance of the <hi>Doctor,</hi> which if Curable, both Lodging and Cure m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had of him at reasonable Rates. With Allowance.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
